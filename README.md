@@ -59,6 +59,10 @@
         3) You can't take more than what's remaining in the pile.<br>
         4) The player <i> without </i> any valid move <b>loses</b>. The other wins.
     </p>
+    <p style="font-size: 18px;">
+        Get to know more about the algorithm and explanation <a href="here">https://github.com/Taaroop/Nim-Game</a>
+        Visit us in Room 208! (not 208 factorial).
+    </p>
     
     <div id="total-items-container"></div>
 
