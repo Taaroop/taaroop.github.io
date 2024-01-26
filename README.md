@@ -54,7 +54,7 @@
         1) Input the initial number of items on the game pile and the two options.<br>
         2) On your turn, you can <i> either </i> remove option1 number of items from the pile, <i> or </i> option2 number of items from the pile. Same goes for the bot.<br>
         3) You can't take more than what's remaining in the pile.<br>
-        4) The player <i> without </i> any valid move <b> loses </b>. The other wins.
+        4) The player <i> without </i> any valid move <b>loses</b>. The other wins.
     </p>
     
     <div id="total-items-container"></div>
