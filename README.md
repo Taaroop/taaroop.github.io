@@ -50,7 +50,7 @@
 
 <div id="game-container">
     <p style="font-size: 20px;">
-        Developed by Md Faiyaz Siddiquee
+        <u>Developed by Md Faiyaz Siddiquee</u>
     </p>
     <p style="font-size: 18px;">
         Rules of the Game:<br>
