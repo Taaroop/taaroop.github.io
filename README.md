@@ -49,6 +49,8 @@
 <body>
 
 <div id="game-container">
+    <p style="font-size: 18px;">Rules of the Game: Play fairly</p>
+    
     <div id="total-items-container"></div>
 
     <div id="input-container">
@@ -77,7 +79,7 @@
 </div>
 
 <script>
-    let totalItems;
+   	let totalItems;
     let option1;
     let option2;
     let playerTurnFlag;
