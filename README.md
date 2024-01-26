@@ -49,6 +49,9 @@
 <body>
 
 <div id="game-container">
+    <p style="font-size: 20px;">
+        Developed by Md Faiyaz Siddiquee
+    </p>
     <p style="font-size: 18px;">
         Rules of the Game:<br>
         1) Input the initial number of items on the game pile and the two options.<br>
