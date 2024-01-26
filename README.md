@@ -60,8 +60,8 @@
         4) The player <i> without </i> any valid move <b>loses</b>. The other wins.
     </p>
     <p style="font-size: 18px;">
-        Get to know more about the algorithm and explanation <a href="here">https://github.com/Taaroop/Nim-Game</a>
-        Visit us in Room 208! (not 208 factorial).
+        Get to know more about the algorithm and explanation <a href="https://github.com/Taaroop/Nim-Game">here</a> <br>
+        Visit us in Room 208!
     </p>
     
     <div id="total-items-container"></div>
