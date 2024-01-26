@@ -49,7 +49,13 @@
 <body>
 
 <div id="game-container">
-    <p style="font-size: 18px;">Rules of the Game: Play fairly</p>
+    <p style="font-size: 20px;">
+        Rules of the Game:
+        1) Input the initial number of items on the game pile and the two options.
+        2) On your turn, you can <i> either </i> remove option1 number of items from the pile, <i> or </i> option2 number of items from the pile. Same goes for the bot.
+        3) You can't take more than what's remaining in the pile.
+        4) The player <i> without </i> any valid move <b> loses </b>. The other wins.
+    </p>
     
     <div id="total-items-container"></div>
 
